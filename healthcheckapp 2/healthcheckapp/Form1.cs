@@ -43,19 +43,33 @@ namespace healthcheckapp
 
         private void Login_btn_Click(object sender, EventArgs e)
         {
-            
-            if (textBox1.Text == "admin")
+            if (cbbType.SelectedItem.ToString() == "Admin")
             {
-                if(textBox2.Text == "password")
+                if (textBox1.Text == "admin")
+                {
+                    if (textBox2.Text == "password")
+                    {
+                        FrmUser frmUser = new FrmUser();
+                        frmUser.Show();
+                    }
+                }
+
+                else
+                {
+                    MessageBox.Show("Wrong USername or Password ", "Error ", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            else
+            {
+                if(textBox1.Text == "user" && textBox2.Text == "password")
                 {
                     Dashboard ds = new Dashboard();
                     ds.Show();
                 }
-            }
-
-            else
-            {
-                MessageBox.Show("Wrong USername or Password ", "Error ", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                else
+                {
+                    MessageBox.Show("Wrong USername or Password ", "Error ", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 

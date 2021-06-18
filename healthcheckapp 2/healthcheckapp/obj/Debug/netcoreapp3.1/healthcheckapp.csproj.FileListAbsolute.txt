@@ -66,3 +66,40 @@ D:\Long\OOSD\healthcheckapp\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckap
 D:\Long\OOSD\healthcheckapp\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.csproj.CopyComplete
 D:\Long\OOSD\healthcheckapp\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.genruntimeconfig.cache
 D:\Long\OOSD\healthcheckapp\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.BuyProduct.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.BuyProduct.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Countfootstep.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Dashboard.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Diet.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.exercise.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Form1.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.health.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.healthnews.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.healthstatus.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Home.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.iprotect.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.SignUpForm.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.Viewhealthstatus.resources
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.pdb
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.exe
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.deps.json
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.runtimeconfig.json
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\healthcheckapp.pdb
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ProjectOOSD\healthcheckapp 2\healthcheckapp\obj\Debug\netcoreapp3.1\healthcheckapp.FrmUser.resources

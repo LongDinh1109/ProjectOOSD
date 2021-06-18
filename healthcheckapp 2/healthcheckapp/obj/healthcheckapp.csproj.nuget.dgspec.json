@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Long\\OOSD\\healthcheckapp\\healthcheckapp\\healthcheckapp.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\ProjectOOSD\\healthcheckapp 2\\healthcheckapp\\healthcheckapp.csproj": {}
   },
   "projects": {
-    "D:\\Long\\OOSD\\healthcheckapp\\healthcheckapp\\healthcheckapp.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\ProjectOOSD\\healthcheckapp 2\\healthcheckapp\\healthcheckapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Long\\OOSD\\healthcheckapp\\healthcheckapp\\healthcheckapp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ProjectOOSD\\healthcheckapp 2\\healthcheckapp\\healthcheckapp.csproj",
         "projectName": "healthcheckapp",
-        "projectPath": "D:\\Long\\OOSD\\healthcheckapp\\healthcheckapp\\healthcheckapp.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\ProjectOOSD\\healthcheckapp 2\\healthcheckapp\\healthcheckapp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Long\\OOSD\\healthcheckapp\\healthcheckapp\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\ProjectOOSD\\healthcheckapp 2\\healthcheckapp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.15, 3.1.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -63,7 +85,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     }

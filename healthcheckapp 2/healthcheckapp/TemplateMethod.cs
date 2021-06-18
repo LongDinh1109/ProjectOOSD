@@ -1,65 +1,59 @@
-public abstract class PageTemplate {
- 
-    protected void showHeader() {
-        System.println("<header />");
-    }
- 
-    protected void showNavigation() {
-        System.println("<nav />");
-    }
- 
-    protected void showFooter() {
-        System.println("<footer />");
-    }
- 
-    protected abstract void showBody();
- 
-    public void showPage() {
-        showHeader();
-        showNavigation();
-        showBody();
-        showFooter();
-    }
-}
-public class HomePage: PageTemplate {
- 
-    
-    protected void showBody() {
-        System.println("Content of home page page");
-    }
-}
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
 
-public class DetailPage :PageTemplate {
-    protected void showBody() {
-        System.println("Content of detail");
-    }
-}
-public class ContactPage :PageTemplate {
- 
+namespace healthcheckapp
+{
 
-    protected void showNavigation() {
-        // Just do nothing
-        // Because we don't want to show navigation bar on contact page
+    public abstract class PageTemplate
+    {
+
+        protected void showHeader(MenuStrip menuStrip)
+        {
+            menuStrip.Visible = true;
+        }
+
+        protected void showNavigation()
+        {
+
+        }
+
+        protected void showFooter(MenuStrip menuStrip)
+        {
+            menuStrip.Visible = true;
+        }
+
+        protected abstract void showImage(PictureBox pictureBox);
+
+        public void showPage(MenuStrip menuStrip, MenuStrip menuStrip1, PictureBox pictureBox)
+        {
+            showHeader(menuStrip);
+            showNavigation();
+            showImage(pictureBox);
+            showFooter(menuStrip1);
+        }
     }
- 
-    protected void showBody() {
-        System.println("Content of contact page");
+    public class DietImage : PageTemplate
+    {
+
+
+        protected override void showImage(PictureBox pictureBox)
+        {
+            pictureBox.Visible = true;
+            pictureBox.BringToFront();
+        }
     }
-}
- 
-public class TemplateMethodPatternExample {
- 
-    public static void main(String[] args) {
-         
-        PageTemplate homePage = new HomePage();
-        homePage.showPage();
-         
-        System.println();
-        PageTemplate detailPage = new DetailPage();
-        detailPage.showPage();
- 
-        System.println();
-        PageTemplate contactPage = new ContactPage();
-        contactPage.showPage();
+
+    public class HomeImage : PageTemplate
+    {
+        protected override void showImage(PictureBox pictureBox)
+        {
+            pictureBox.Visible = true;
+            pictureBox.BringToFront();
+        }
     }
 }

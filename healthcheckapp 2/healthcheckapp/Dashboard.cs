@@ -8,11 +8,18 @@ using System.Windows.Forms;
 
 namespace healthcheckapp
 {
+
+   
+    
+
     public partial class Dashboard : Form
     {
+        DietImage dietImage = new DietImage();
+        HomeImage homeImage = new HomeImage();
         public Dashboard()
         {
             InitializeComponent();
+            homeImage.showPage(menuStrip,bttmmenu,pictureBox2);
         }
 
         private void inputstatus_Click(object sender, EventArgs e)
@@ -47,8 +54,7 @@ namespace healthcheckapp
 
         private void diet_Click(object sender, EventArgs e)
         {
-            Diet res = new Diet();
-            res.Show();
+            dietImage.showPage(menuStrip, bttmmenu, pictureBox3);
         }
 
         private void health_Click(object sender, EventArgs e)
@@ -85,6 +91,9 @@ namespace healthcheckapp
         {
             Form frmBuy = new BuyProduct();
             frmBuy.Show();
+            
         }
     }
+ 
+    
 }
